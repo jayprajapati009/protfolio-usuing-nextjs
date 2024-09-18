@@ -24,8 +24,8 @@ const workExperienceData: WorkExperienceItem[] = [
   },
   
   {
-    startDate: "Januray 2020",
-    endDate: "Januray 2022",
+    startDate: "January 2020",
+    endDate: "January 2022",
     companyName: "Robotics Lab, BVM Engineering College",
     jobTitle: "Robotics Intern",
     description: [
