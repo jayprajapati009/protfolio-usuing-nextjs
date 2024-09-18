@@ -15,7 +15,7 @@ const Intro = () => {
 
             <div className='md:w-4/12 sm:w-full'>
                 <Image 
-                    src="./public/images/jay_dp.png" 
+                    src="./images/jay_dp.png" 
                     alt="Jay Prajapati" 
                     width={200} 
                     height={200}
